@@ -1,0 +1,5 @@
+Link for tutorial
+		https://dzone.com/articles/jasper-reports-open-source-reporting-tool
+
+Another Tutorial - i read it but didnt actually implemented it practically but its a good article to read
+		http://refermycode.com/jaspertutorial/chapter-5-generating-report-with-java-pojo-classes/
